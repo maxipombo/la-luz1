@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "309556304092",
+    "firebase_url": "https://la-luz.firebaseio.com",
+    "project_id": "la-luz",
+    "storage_bucket": "la-luz.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:309556304092:android:5abe6e784b91ee69",
+        "android_client_info": {
+          "package_name": "uy.com.siennadesigns.la_luz"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "309556304092-neq8blcgef4mgere2tosi637nbfcid5i.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyApavuB_k6bMVEYggolBF_9Nr1z-Gp9UQs"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
